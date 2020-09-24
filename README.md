@@ -1,16 +1,15 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**meierj423/meierj423** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Jack and I am a recent graduate of the UCSD Full Stack Development Bootcamp. I graduated from the U.S. Naval Academy with a B.S. in Mathematics in 2017 and possess an active TS/SCI clearance.
 
-Here are some ideas to get you started:
+Check out my [portfolio](https://meierj423.github.io/react-portfolio/)!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My Expanding list of languages/applications:
+HTML, CSS, Bootstrap, JavaScript, jQuery, Node.js, Express.js, SQL, Mongo, Mongoose, React, Git + more to come!
+
+Some of my projects
+🌎 [GeoQuiz](https://geo1quiz.herokuapp.com/)
+📺 [The Binge Guide](https://jmsj2.herokuapp.com/)
+
+How to reach me
+📑 [LinkedIn](https://www.linkedin.com/in/jackson-meier/) 📧 Email: [jackson.meier423@gmail.com](jackson.meier423@gmail.com)
