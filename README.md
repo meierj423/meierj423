@@ -8,6 +8,7 @@ My Expanding list of languages/frameworks:
 HTML, CSS, Bootstrap, JavaScript, jQuery, Node.js, Express.js, SQL, MongoDB, Mongoose, React, Git & more to come!
 
 Some of my projects
+🦮 [Smart Walker](https://smart-walker.herokuapp.com/)
 🌎 [GeoQuiz](https://geo1quiz.herokuapp.com/)
 📺 [The Binge Guide](https://jmsj2.herokuapp.com/)
 
