@@ -4,8 +4,8 @@ My name is Jack and I am a recent graduate of the UCSD Full Stack Development Bo
 
 Check out my [portfolio](https://meierj423.github.io/react-portfolio/)!
 
-My Expanding list of languages/applications:
-HTML, CSS, Bootstrap, JavaScript, jQuery, Node.js, Express.js, SQL, Mongo, Mongoose, React, Git & more to come!
+My Expanding list of languages/frameworks:
+HTML, CSS, Bootstrap, JavaScript, jQuery, Node.js, Express.js, SQL, MongoDB, Mongoose, React, Git & more to come!
 
 Some of my projects
 🌎 [GeoQuiz](https://geo1quiz.herokuapp.com/)
