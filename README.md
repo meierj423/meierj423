@@ -1,3 +1,3 @@
-## How to reach me
+## Contact Information
 📑 [LinkedIn](https://www.linkedin.com/in/jackson-meier/)   
 📧 Email: [jackson.meier423@gmail.com](jackson.meier423@gmail.com)
